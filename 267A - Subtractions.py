@@ -10,3 +10,4 @@ for i in range(n):
             total += b // a
             b -= (b // a) * a
     print(total)
+    
